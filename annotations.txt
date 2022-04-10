@@ -1,0 +1,4 @@
+> Props are arguments/attributes passed into React components. Props are passed to components via HTML attributes. props stands for properties.
+> State determine how a component behaves or render.
+> APP or GLOBAL -> referest to entire UI State.
+> Hooks -> Allows us to use state and other features without a class.
